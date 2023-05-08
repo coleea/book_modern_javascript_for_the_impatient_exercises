@@ -1,0 +1,15 @@
+{
+  "name": "book_modern_javascript_for_the_impatient_exercises",
+  "version": "1.0.0",
+  "description": "출시일 : 2020.07.01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}

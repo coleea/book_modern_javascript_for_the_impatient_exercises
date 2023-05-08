@@ -3,7 +3,7 @@
 'use strict'
 
 console.log('// Creating symbols')
-const sym = Symbol('label')
+const sym = Symbol("label")
 const sym2 = Symbol('label')
 console.log('sym:', sym) // Symbol(label)
 console.log('sym2:', sym2) // Symbol(label)
